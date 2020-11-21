@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "868207858380",
+    "firebase_url": "https://uts-fernandy-ricardo-ant-faf54.firebaseio.com",
+    "project_id": "uts-fernandy-ricardo-ant-faf54",
+    "storage_bucket": "uts-fernandy-ricardo-ant-faf54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868207858380:android:5f63c8c9afadfdfaade869",
+        "android_client_info": {
+          "package_name": "com.example.uts_amub_ti7jm_1711500123_fernandy_ricardo_antonius"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868207858380-jcfrqv6lsiha19l9mpe4nl88u3lcu2o6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uts_amub_ti7jm_1711500123_fernandy_ricardo_antonius",
+            "certificate_hash": "5411237fd35cdd795d4319bcea2355303d54e547"
+          }
+        },
+        {
+          "client_id": "868207858380-njcjo3d6v8uuu4e3evp8cd9qqcbuk9tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVEy6yrVNarwtHj3jlo71--XP62rL0d-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868207858380-njcjo3d6v8uuu4e3evp8cd9qqcbuk9tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
